@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12bdd08d-83cb-4c8a-82ba-8796e0ae22f5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Book.Book.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Book/Book.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Book/BookRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Ports/Adapter/Persistance/Doctrine/Book/BookRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Lectures/Lecture.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Lectures/LectureRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Lectures.Lecture.orm.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/User.User.orm.yml" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/User.User.orm.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Books/Domain/Model/User/User.php" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/User/User.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Books/Domain/Model/User/UserRepository.php" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/User/UserRepository.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Books/DomainBundle/Ports/Adapter/Persistance/Doctrine/User/UserRepository.php" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Ports/Adapter/Persistance/Doctrine/User/UserRepository.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="12bdd08d-83cb-4c8a-82ba-8796e0ae22f5" name="Default" comment="" />
     <ignored path="books.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
