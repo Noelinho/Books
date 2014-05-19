@@ -3,7 +3,7 @@ web:
     prefix:   /
 
 domain_core:
-    resource: "@DomainCoreBundle/Resources/config/routing.yml"
+    resource: "@DomainBundle/Resources/config/routing.yml"
     prefix:   /
 
 contacto_default:

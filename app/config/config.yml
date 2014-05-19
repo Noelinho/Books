@@ -57,8 +57,18 @@ doctrine:
         # path:     "%database_path%"
 
     orm:
-        auto_generate_proxy_classes: "%kernel.debug%"
-        auto_mapping: true
+        default_entity_manager:  default
+        entity_managers:
+            default:
+                auto_mapping:         true
+                mappings:
+                    # An array of mappings, which may be a bundle name or something else
+                    DomainBundle:
+                        mapping:              true
+                        type:                 yml
+                        dir:                  Resources/config/doctrine
+                        prefix:               Books\Domain\Model
+                        is_bundle:            true
 
 # Swiftmailer Configuration
 swiftmailer:

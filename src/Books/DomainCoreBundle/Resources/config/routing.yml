@@ -1,3 +1,0 @@
-domain_core_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: DomainCoreBundle:Default:index }

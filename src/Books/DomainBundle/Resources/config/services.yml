@@ -1,5 +1,5 @@
 parameters:
-#    domain_core.example.class: Books\DomainCoreBundle\Example
+#    domain_core.example.class: Books\DomainBundle\Example
 
 services:
 #    domain_core.example:

@@ -1,6 +1,6 @@
 <?php
 
-namespace Books\DomainCoreBundle\Tests\Controller;
+namespace Books\DomainBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

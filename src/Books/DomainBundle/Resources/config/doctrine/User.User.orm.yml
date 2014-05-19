@@ -1,0 +1,25 @@
+Books\Domain\Model\User\User:
+    type: entity
+    table: USERS
+    #repositoryClass: Books\DomainBundle\Ports\Adapter\Persistance\Doctrine\User\UserRepository
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: ID
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            nullable: false
+            comment: ''
+            column: NAME
+        surname:
+            type: string
+            nullable: true
+            comment: ''
+            column: SURNAME
