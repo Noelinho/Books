@@ -1,0 +1,28 @@
+Books\Domain\Model\Lectures\Lecture:
+    type: entity
+    table: BOOKS_READED
+    #repositoryClass: Books\DomainBundle\Ports\Adapter\Persistance\Doctrine\Book\BookRepository
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id
+            generator:
+                strategy: AUTO
+    manyToOne:
+        book:
+            targetEntity: Books\Domain\Model\Book\Book
+            inversedBy: lectures
+            joinColumn:
+                name: id_book
+                referencedColumnName: id
+    manyToOne:
+        user:
+            targetEntity: Books\Domain\Model\User\User
+            inversedBy: lectures
+            joinColumn:
+                name: id_user
+                referencedColumnName: id

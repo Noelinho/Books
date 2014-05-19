@@ -9,7 +9,7 @@ Books\Domain\Model\User\User:
             unsigned: false
             comment: ''
             id: true
-            column: ID
+            column: id
             generator:
                 strategy: AUTO
     fields:
@@ -17,9 +17,13 @@ Books\Domain\Model\User\User:
             type: string
             nullable: false
             comment: ''
-            column: NAME
+            column: name
         surname:
             type: string
             nullable: true
             comment: ''
-            column: SURNAME
+            column: surname
+    oneToMany:
+            lectures:
+                targetEntity: Books\Domain\Model\Lectures\Lecture
+                mappedBy: user

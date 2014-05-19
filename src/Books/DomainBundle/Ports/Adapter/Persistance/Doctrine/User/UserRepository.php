@@ -1,7 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jtarrago
- * Date: 19/05/14
- * Time: 15:53
- */ 
+namespace Books\DomainBundle\Ports\Adapter\Persistance\Doctrine\User;
+
+class UserRepository implements \Books\Domain\Model\User\UserRepository
+{
+
+}

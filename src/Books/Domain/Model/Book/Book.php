@@ -1,15 +1,12 @@
 <?php
-namespace Books\Domain\Model\User;
+namespace Books\Domain\Model\Book;
 
 use Doctrine\Common\Collections\ArrayCollection;
-use Doctrine\ORM\Mapping as ORM;
 
-/** @ORM\Entity */
-class User
+class Book
 {
     protected $id;
-    protected $name;
-    protected $surname;
+    protected $title;
     protected $lectures;
 
     public function __construct() {
@@ -36,41 +33,22 @@ class User
     }
 
     /**
-     * @param mixed $name
+     * @param mixed $title
      *
      * @return $this
      */
-    public function setName($name)
+    public function setTitle($title)
     {
-        $this->name = $name;
+        $this->title = $title;
         return $this;
     }
 
     /**
      * @return mixed
      */
-    public function getName()
+    public function getTitle()
     {
-        return $this->name;
-    }
-
-    /**
-     * @param mixed $surname
-     *
-     * @return $this
-     */
-    public function setSurname($surname)
-    {
-        $this->surname = $surname;
-        return $this;
-    }
-
-    /**
-     * @return mixed
-     */
-    public function getSurname()
-    {
-        return $this->surname;
+        return $this->title;
     }
 
     /**
@@ -91,5 +69,8 @@ class User
     {
         return $this->lectures;
     }
+
+
+
 
 }
