@@ -6,3 +6,6 @@ domain_core:
     resource: "@DomainCoreBundle/Resources/config/routing.yml"
     prefix:   /
 
+contacto_default:
+    path: /help/{pagina}
+    defaults: {_controller: WebBundle:Help:index}
