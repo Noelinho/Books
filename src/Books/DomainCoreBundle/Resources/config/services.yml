@@ -1,0 +1,7 @@
+parameters:
+#    domain_core.example.class: Books\DomainCoreBundle\Example
+
+services:
+#    domain_core.example:
+#        class: %domain_core.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

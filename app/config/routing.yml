@@ -1,0 +1,8 @@
+web:
+    resource: "@WebBundle/Resources/config/routing.yml"
+    prefix:   /
+
+domain_core:
+    resource: "@DomainCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
