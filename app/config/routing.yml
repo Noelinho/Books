@@ -9,3 +9,7 @@ domain_core:
 contacto_default:
     path: /help/{pagina}
     defaults: {_controller: WebBundle:Help:index}
+
+portada:
+    path: /
+    defaults: {_controller: WebBundle:Default:index}

@@ -1,7 +1,7 @@
 Books\Domain\Model\Lectures\Lecture:
     type: entity
     table: BOOKS_READED
-    #repositoryClass: Books\DomainBundle\Ports\Adapter\Persistance\Doctrine\Book\BookRepository
+    repositoryClass: Books\DomainBundle\Ports\Adapter\Persistance\Doctrine\Lecture\LectureRepository
     id:
         id:
             type: integer

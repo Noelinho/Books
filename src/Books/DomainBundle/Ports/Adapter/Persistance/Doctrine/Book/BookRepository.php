@@ -1,7 +1,9 @@
 <?php
 namespace Books\DomainBundle\Ports\Adapter\Persistance\Doctrine\Book;
 
-class BookRepository implements \Books\Domain\Model\Book\BookRepository
+use Doctrine\ORM\EntityRepository;
+
+class BookRepository extends EntityRepository implements \Books\Domain\Model\Book\BookRepository
 {
 
 }
