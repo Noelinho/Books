@@ -6,6 +6,7 @@ class Lecture
     protected $id;
     protected $book;
     protected $user;
+    protected $review;
 
     /**
      * @param mixed $id
@@ -62,6 +63,25 @@ class Lecture
     public function getUser()
     {
         return $this->user;
+    }
+
+    /**
+     * @param mixed $review
+     *
+     * @return $this
+     */
+    public function setReview($review)
+    {
+        $this->review = $review;
+        return $this;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getReview()
+    {
+        return $this->review;
     }
 
 

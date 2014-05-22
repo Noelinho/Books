@@ -19,10 +19,13 @@ Books\Domain\Model\Lectures\Lecture:
             joinColumn:
                 name: id_book
                 referencedColumnName: id
-    manyToOne:
         user:
             targetEntity: Books\Domain\Model\User\User
             inversedBy: lectures
             joinColumn:
                 name: id_user
                 referencedColumnName: id
+    oneToOne:
+        review:
+            targetEntity: Books\Domain\Model\Review\Review
+            mappedBy: lecture

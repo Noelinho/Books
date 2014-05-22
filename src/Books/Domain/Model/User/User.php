@@ -2,15 +2,14 @@
 namespace Books\Domain\Model\User;
 
 use Doctrine\Common\Collections\ArrayCollection;
-use Doctrine\ORM\Mapping as ORM;
 
-/** @ORM\Entity */
 class User
 {
     protected $id;
     protected $name;
     protected $surname;
     protected $lectures;
+    protected $posts;
 
     public function __construct() {
         $this->lectures = new ArrayCollection();
@@ -91,5 +90,25 @@ class User
     {
         return $this->lectures;
     }
+
+    /**
+     * @param mixed $posts
+     *
+     * @return $this
+     */
+    public function setPosts($posts)
+    {
+        $this->posts = $posts;
+        return $this;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getPosts()
+    {
+        return $this->posts;
+    }
+
 
 }

@@ -1,0 +1,32 @@
+Books\Domain\Model\Post\Post:
+    type: entity
+    table: POSTS
+    repositoryClass: Books\DomainBundle\Ports\Adapter\Persistance\Doctrine\Post\PostRepository
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id
+            generator:
+                strategy: AUTO
+    fields:
+        title:
+            type: string
+            nullable: true
+            comment: ''
+            column: title
+        body:
+            type: string
+            nullable: true
+            comment: ''
+            column: body
+    manyToOne:
+        user:
+            targetEntity: Books\Domain\Model\User\User
+            inversedBy: lectures
+            joinColumn:
+                name: id_user
+                referencedColumnName: id

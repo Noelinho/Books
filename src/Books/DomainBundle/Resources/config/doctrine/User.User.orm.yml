@@ -27,3 +27,6 @@ Books\Domain\Model\User\User:
             lectures:
                 targetEntity: Books\Domain\Model\Lectures\Lecture
                 mappedBy: user
+            posts:
+                targetEntity: Books\Domain\Model\Post\Post
+                mappedBy: user

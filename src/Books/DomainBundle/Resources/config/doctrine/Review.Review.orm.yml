@@ -1,0 +1,37 @@
+Books\Domain\Model\Review\Review:
+    type: entity
+    table: REVIEWS
+    repositoryClass: Books\DomainBundle\Ports\Adapter\Persistance\Doctrine\Review\ReviewRepository
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id
+            generator:
+                strategy: AUTO
+    fields:
+        title:
+            type: string
+            nullable: true
+            comment: ''
+            column: title
+        body:
+            type: string
+            nullable: true
+            comment: ''
+            column: body
+        rating:
+            type: integer
+            nullable: false
+            comment: ''
+            column: rating
+    oneToOne:
+        lecture:
+            targetEntity: Books\Domain\Model\Lectures\Lecture
+            inversedBy: review
+            joinColumn:
+                name: id_lecture
+                referencedColumnName: id
