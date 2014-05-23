@@ -2,17 +2,130 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bdd08d-83cb-4c8a-82ba-8796e0ae22f5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Post.Post.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Post/Post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Post/PostRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Review.Review.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Review/Review.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Review/ReviewRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Ports/Adapter/Persistance/Doctrine/Review/ReviewRepository.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Books/Domain/Model/Lectures/Lecture.php" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/Lectures/Lecture.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Lectures.Lecture.orm.yml" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Lectures.Lecture.orm.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/User.User.orm.yml" afterPath="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/User.User.orm.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Books/Domain/Model/User/User.php" afterPath="$PROJECT_DIR$/src/Books/Domain/Model/User/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_border-fade.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_box-shadow-inset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_box-shadow-outset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-bottom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-bottom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-bottom-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-bottom-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-top-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-top-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_defaults.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_float-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_glow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_grow-rotate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_grow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_hacks.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hang.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hollow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hover-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_options.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_outline-inward.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_outline-outward.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse-grow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse-shrink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_push.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_rotate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_round-corners.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_shadow-radial.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_shrink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_sink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_skew-forward.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_skew.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_trim.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-bottom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-horizontal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-vertical.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/aqua.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/blog_magazine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/box-shadows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/brand-buttons-inversed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/css/brand-buttons-inversed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/brand-buttons-inversed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/brand-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/css/brand-buttons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/brand-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/brown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/btn-effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/checkout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/circles-master.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/custom-hover-effects.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/dark-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/feature_timeline1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/feature_timeline2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/form-sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/hover-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/hover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/light-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/masking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/order.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/owl-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_about.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_clients.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_coming_soon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_contact.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/page_contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_faq1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_invoice.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_log_reg_v1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_log_reg_v2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_one.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/page_portfolio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_pricing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_promo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search_inner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search_inner_tables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/portfolio-v1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/portfolio-v2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/reg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/review.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/vector-map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/books.iml" afterPath="$PROJECT_DIR$/.idea/books.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="books.iws" />
@@ -35,44 +148,7 @@
     <favorites_list name="books" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Book.Book.orm.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Book.Book.orm.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="16" selection-start="58" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lecture.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Books/Domain/Model/Lectures/Lecture.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="0" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.0" vertical-offset="1290" max-vertical-offset="1410">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.User.orm.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/User.User.orm.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="30" selection-start="874" selection-end="874" vertical-scroll-proportion="0.8115183" vertical-offset="0" max-vertical-offset="573">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Post.Post.orm.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Post.Post.orm.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="24" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -132,7 +208,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="719" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -160,7 +236,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,26 +285,8 @@
               <option name="myItemId" value="Books" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DomainBundle" />
+              <option name="myItemId" value="WebBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,7 +308,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DomainBundle" />
+              <option name="myItemId" value="WebBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -277,7 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DomainBundle" />
+              <option name="myItemId" value="WebBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -285,7 +342,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unify" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,7 +372,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DomainBundle" />
+              <option name="myItemId" value="WebBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -315,53 +380,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DomainBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ports" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Persistance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User" />
+              <option name="myItemId" value="unify" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -382,30 +409,6 @@
               <option name="myItemId" value="Books" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DomainBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ports" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Persistance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Review" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -421,188 +424,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DomainBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ports" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Persistance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Review" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Post" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lectures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
+              <option name="myItemId" value="Acme" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify" />
+      <recent name="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Books/Domain/Model/Book" />
       <recent name="$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine" />
@@ -653,15 +491,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="719" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="731" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34006462" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2609047" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -719,9 +557,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Review.Review.orm.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="12" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="645">
-          <folding />
-        </state>
+        <state line="34" column="12" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/Domain/Model/Lectures/Lecture.php">
@@ -948,16 +784,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/Domain/Model/Post/PostRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="73" selection-end="73" vertical-scroll-proportion="0.14258555" vertical-offset="0" max-vertical-offset="526">
-          <folding />
-        </state>
+        <state line="5" column="4" selection-start="73" selection-end="73" vertical-scroll-proportion="0.14258555" vertical-offset="0" max-vertical-offset="526" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/Domain/Model/Post/Post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="0" selection-start="1240" selection-end="1240" vertical-scroll-proportion="2.4524715" vertical-offset="0" max-vertical-offset="1395">
-          <folding />
-        </state>
+        <state line="86" column="0" selection-start="1240" selection-end="1240" vertical-scroll-proportion="2.4524715" vertical-offset="0" max-vertical-offset="1395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Lectures.Lecture.orm.yml">
@@ -969,9 +801,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Review.Review.orm.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="24" selection-start="412" selection-end="636" vertical-scroll-proportion="0.5026178" vertical-offset="72" max-vertical-offset="645">
-          <folding />
-        </state>
+        <state line="24" column="24" selection-start="412" selection-end="636" vertical-scroll-proportion="0.5026178" vertical-offset="72" max-vertical-offset="645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Book.Book.orm.yml">
@@ -983,7 +813,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/Post.Post.orm.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="24" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+        <state line="17" column="24" selection-start="459" selection-end="459" vertical-scroll-proportion="0.43589744" vertical-offset="0" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
@@ -997,7 +827,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Books/DomainBundle/Resources/config/doctrine/User.User.orm.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="30" selection-start="874" selection-end="874" vertical-scroll-proportion="0.8115183" vertical-offset="0" max-vertical-offset="573">
+        <state line="31" column="30" selection-start="874" selection-end="874" vertical-scroll-proportion="0.7948718" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3825">
           <folding />
         </state>
       </provider>
