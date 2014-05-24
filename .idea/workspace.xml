@@ -2,131 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bdd08d-83cb-4c8a-82ba-8796e0ae22f5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_border-fade.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_box-shadow-inset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_box-shadow-outset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-bottom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-bottom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-left.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-right.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-top.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-left.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-right.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-top.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-bottom-left.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-bottom-right.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-top-left.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-top-right.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_defaults.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_float-shadow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_float.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_glow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_grow-rotate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_grow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_hacks.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hang.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hollow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hover-shadow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_options.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_outline-inward.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_outline-outward.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pop.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse-grow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse-shrink.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_push.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_rotate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_round-corners.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_shadow-radial.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_shrink.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_sink.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_skew-forward.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_skew.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_trim.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-bottom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-horizontal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-top.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-vertical.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/aqua.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/blog_magazine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/box-shadows.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/brand-buttons-inversed.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/css/brand-buttons-inversed.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/brand-buttons-inversed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/brand-buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/css/brand-buttons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/brand-buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/brown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/btn-effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/checkout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/circles-master.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/custom-hover-effects.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/dark-blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/feature_timeline1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/feature_timeline2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/form-sliders.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/hover-min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/hover.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/hover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/light-green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/masking.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/owl-carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_about.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_clients.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_coming_soon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_contact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/page_contacts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_faq1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_invoice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_log_reg_v1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_log_reg_v2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_one.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/page_portfolio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_pricing.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_promo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search_inner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search_inner_tables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/portfolio-v1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/portfolio-v2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/reg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/review.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/vector-map.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/books.iml" afterPath="$PROJECT_DIR$/.idea/books.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/blog_magazine.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/feature_timeline1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/feature_timeline2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_404_error3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_about.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_clients.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_coming_soon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_contact.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_faq1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_invoice.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_job_inner2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_log_reg_v1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_log_reg_v2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_one.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_pricing.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_promo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search_inner.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/page_search_inner_tables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/portfolio-v1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/pages/portfolio-v2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/box-shadows.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/brand-buttons-inversed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/SASS/brand-buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/brand-buttons-inversed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/brand-buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/css/brand-buttons-inversed.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/brand-buttons/css/brand-buttons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/custom-hover-effects.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/hover-min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/css/hover.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_defaults.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_hacks.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/_options.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_border-fade.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_box-shadow-inset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_box-shadow-outset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-bottom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-bottom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-left.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-right.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-float-top.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-left.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-right.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_bubble-top.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-bottom-left.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-bottom-right.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-top-left.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_curl-top-right.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_float-shadow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_glow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_grow-rotate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_grow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hang.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hollow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hover-shadow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_outline-inward.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_outline-outward.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pop.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse-grow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse-shrink.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_pulse.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_push.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_rotate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_round-corners.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_shadow-radial.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_shrink.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_sink.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_skew-forward.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_skew.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_trim.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-bottom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-horizontal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-top.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/effects/_wobble-vertical.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/plugins/hover-effect/scss/hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/aqua.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/brown.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/dark-blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/light-green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/orange.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/purple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/css/unify/themes/red.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/checkout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/comment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/contact.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/order.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/reg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/forms/review.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/page_contacts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/pages/page_portfolio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/btn-effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/circles-master.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/form-sliders.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/masking.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/owl-carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/validation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Books/WebBundle/Resources/public/js/unify/plugins/vector-map.js" afterPath="" />
     </list>
     <ignored path="books.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -208,7 +206,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="731" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -264,6 +262,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -313,82 +325,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Books" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unify" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -491,7 +427,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="731" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="728" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
